@@ -1,5 +1,9 @@
 # HomepageBlitz
-Homepage made with a class by a italian teacher named David 
+Homepage made with all the help from teacher 
+Just Html and Css
+
+Photos by Bears.
 
 Course at Udemy by Davide Molin
+
 Foundations of Front-End Web Development
